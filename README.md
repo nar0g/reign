@@ -38,6 +38,6 @@ Victim@USEast
 		-Kick(.kick Name)
 		-Ver (Broken)
 		
-Internal Commands
+# Internal Commands
 	-Just type /commands
 	
